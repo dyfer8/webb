@@ -1,4 +1,5 @@
 
+
 body { 
     
     
@@ -19,9 +20,25 @@ p  { margin: 5px 0 15px; line-height: 1.6em; font-size: 1.5em; }
 #intro { clear: both; padding: 15px 0 1px 20px; border: 1px solid #dedede; font-size: 1.3em; background: #eee; margin: 0 0 30px; }
 #left { float: left; width: 500px; margin: 0 0 15px; }
 #right { float: right; width: 280px; }
-#right h3 { border-bottom: 1px solid #ccc; margin: 0 0 10px; }
+#right h3 { border-bottom: 1px solid #ccc; margin: 0 0 10px; font-size: 30px;}
 #right img { margin: 0 3px 3px 0; border: 2px solid #eee; padding: 2px; }
 #right li { list-style: none; }
 	#right li a { display: block; border-bottom: 1px solid #ccc; padding: 5px 5px; }
 #footer { clear: both; padding: 15px 0; border-top: 1px solid #ccc; }
 	#r { float: right; }
+h6 { color: #fff;
+    font-size: 18px;
+    background: #A82A15;
+    padding: 6px 20px; }
+#center {   border: 0;
+    padding-right: 300px;
+    padding-left: 100px;
+    margin-right: 100px; }
+#center p { margin: 0px 0px 1.25em; }
+
+#centeer {   float: right;
+    width: 280px;
+    
+    height: 500px;
+    margin-top: -500px;
+    display: block; }
